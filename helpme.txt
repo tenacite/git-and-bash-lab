@@ -1,0 +1,2 @@
+i want to make changes to the lab-instructions.pdf,how do i go about it?
+Also when i type cat lab-instructions.pdf it get gives me a whole lot of symbols and when i press enter more keep coming.how do i stop it or deal with it? Is it possible to convert it in the terminal so i can read it? 
